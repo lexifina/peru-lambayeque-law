@@ -1,0 +1,14 @@
+ORDENANZA REGIONAL
+Nº 016-2010-GR.LAMB./CR
+Chiclayo, 25 de junio de 2010
+LA PRESIDENTA DEL GOBIERNO
+REGIONAL DE LAMBAYEQUE;
+POR CUANTO:
+El Consejo Regional del Gobierno Regional de Lambayeque en su Sesión Ordinaria de fecha 15 de junio de 2010, ha aprobado la Ordenanza Regional siguiente:
+CONSIDERANDO:
+Que, el tema de la discapacidad es un problema de dimensión nacional, porque se estima que tres millones y medio de personas sobrellevan alguna discapacidad física, sensorial y/o mental; de acuerdo a estudios efectuados por el Instituto Especializado de Rehabilitación. EI 80% de las discapacidades, son producto de los accidentes en diferentes etapas de la vida, de las diversas formas de violencia social, también de la desnutrición crónica y de las limitaciones económicas en la familia; situaciones que se pueden y deben evitar. Más del 60% de la poblaci6n con discapacidad, vive en condiciones de pobreza y extrema pobreza; con las negativas consecuencias señaladas anteriormente.
+Pese a la difícil situación que afronta la población con discapacidad, no podemos dejar de reconocer los valiosos avances que ha logrado el Estado Peruano, en atención a tan importante sector social desde 1980 hasta la actualidad. En el Perú se cuenta con más de 400 Centros de Educación Básica Especial, se dispone de Centros de Rehabilitación en 13 ciudades; existen diversas oficinas y servicios en atención a la discapacidad que funcionan en los diferentes estamentos del Estado. Sin embargo consideramos que lo que se ha logrado no es lo suficiente para atender a las demandas sociales de un elevado porcentaje de personas con discapacidad.
+Que, de conformidad con la Constitución Política del Perú, las Leyes Nos. 27050 - Ley General de la Persona con Discapacidad -, reglamentada por Decreto Supremo N° 003 - 2000-PROMUDEH; Ley N° 27813 - Ley del Sistema Nacional y Descentralización de Salud; Ley N° 27783 -Ley de Bases de la Descentralización; Ley N° 27867 - Ley Orgánica de Gobiernos Regionales, modificada por Ley N° 27902, es imperativo la creación y funcionamiento de la Mesa Regional por la Participación y Desarrollo Inclusivo de las Personas con Discapacidad en la Región, que tenga como función la de establecer los mecanismos necesarios que tiendan a generar acciones que incorporen el enfoque de discapacidad en el desarrollo y la ejecución de políticas para la Región;
+Que, el Gobierno Regional de Lambayeque desarrolla políticas y acciones integrales de gobierno dirigidas a promover la inclusión económica, social, política y cultural de las personas con discapacidad;
+Por lo que estando a lo dispuesto por el Artículo 38° de la Ley N° 27867, Ley Orgánica de Gobiernos Regionales, el Consejo Regional del Gobierno Regional del departamento de Lambayeque ha emitido la siguiente;
+ORDENANZA REGIONAL:
