@@ -1,0 +1,14 @@
+ORDENANZA REGIONAL
+Nº 018-2011-GR.LAMB./CR
+Chiclayo, 26 de octubre de 2011
+El Presidente del Gobierno Regional de Lambayeque;
+POR CUANTO:
+El Consejo Regional en su Sesión Ordinaria de fecha 14 de septiembre de 2011, ha aprobado la Ordenanza Regional siguiente:
+CONSIDERANDO:
+Que, el Decreto Supremo N° 027-2007-PCM que define y establece las políticas nacionales de obligatorio cumplimiento para la entidades del Gobierno Nacional, señala entre las políticas establecidas en materia de Juventud, las de “formular planes, programas y proyectos que atiendan las demandas y aspiraciones de la juventud en los asuntos que conciernan a cada uno de los ministerios y las diferentes instituciones del Estado”; así como, “fortalecer y fomentar la participación juvenil en los distintos espacios políticos y sociales, así como en los ministerios y las diferentes instituciones del Estado, para la promoción de planes, proyectos y programas en materia de juventud”, entre otros.
+Que, en este marco normativo e inmerso en el proceso de descentralización, los gobiernos regionales deben articular las acciones vinculadas a la juventud que les corresponde ejecutar en el marco de los planes estratégicos nacionales actualmente vigentes, procediendo a la revisión de la oferta del Estado en materia de juventud en el ámbito regional.
+Que, el ordenamiento y la priorización de acciones relacionadas a la promoción de la juventud corresponden, en primer lugar, a los lineamientos de políticas nacionales en esta materia contenidos en el Plan Nacional de la Juventud; y, en segundo lugar, a las necesidades identificadas en la población joven de la región.
+Que, en este sentido, el Consejo Regional de la Juventud – COREJU LAMBAYEQUE, se plantea como el organismo responsable de promover la participación de las instituciones del Estado y la sociedad civil en la promoción, el diseño, el monitoreo y la evaluación de políticas, programas y proyectos, así como la investigación en materia de juventud.
+Que, en este contexto, corresponde también proceder a la revisión y puesta al día del Plan Regional de la Juventud y Cultura de Paz, el mismo que fuera aprobado por Ordenanza Regional N° 011-2009-GR.LAMB./ CR, con la finalidad de mejorar la calidad de vida de las y los jóvenes lambayecanos, desde iniciativas directas y articuladas para mayor eficiencia y eficacia de los servicios públicos y privados, así como, desde el emprendimiento sinérgico de proyectos y programas acordes a sus necesidades de desarrollo humano en los ámbitos personales, sociales, culturales, económicos, medioambientales y de gobernabilidad.
+Por lo que estando a lo dispuesto por el Artículo 38° de la Ley N° 27867, Ley Orgánica de Gobiernos Regionales, el Consejo Regional del Gobierno Regional Lambayeque ha emitido la siguiente;
+SE ACUERDA:
