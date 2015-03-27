@@ -1,0 +1,13 @@
+ORDENANZA REGIONAL
+Nº 002-2015-GR.LAMB/CR
+Chiclayo, 23 de febrero de 2015
+El Presidente del Gobierno Regional de Lambayeque;
+POR CUANTO:
+El Consejo Regional en su Sesión Ordinaria de fecha 13 de febrero del 2015, ha aprobado la Ordenanza Regional siguiente:
+CONSIDERANDO:
+Que, mediante Oficio Nº 064-2015-GR.LAMB/PR la Presidencia del Gobierno Regional de Lambayeque eleva al Consejo Regional la propuesta de modificación del Reglamento de Organización y Funciones – ROF- de la Región lambayeque referente a la conformación del Directorio de Gerentes.
+Que, mediante Informe Legal Nº 056-2015-GR.LAMB/ORAJ, se pone en manifiesto que en Sesión de Directorio de Gerentes se aprobó proponer al Consejo Regional la modificación del artículo 19 del Reglamento de Organización y Funciones – ROF, respecto a la conformación del Directorio de Gerentes, esto amparado en el artículo 28 de la Ley Orgánica de Gobiernos Reginales – Ley Nº 27867 el cual prescribe: “Los Gerentes Regionales sesionan bajo la presidencia del Presidente Regional. El Gerente General Regional y los Gerentes Regionales son responsables de los acuerdos que adopten y, en cuanto corresponda, de su ejecución”, con la finalidad de implementar la disposición antes mencionada, se aprobó el Reglamento Interno del Directorio de Gerentes Regionales del Gobierno Regional de Lambayeque, señalándose que su función era la aprobación de acuerdos de interés institucional que pudieran consolidarse en Decretos Regionales; asi mismo se incorporó en el ROF como una unidad orgánica y se estableció su conformación.
+Que, la conformación del Directorio de Gerentes Regionales no esta normado en la Ley Orgánica de Gobiernos Regionales y sus modificatorias, y, considerando que su función es ser un ente de coordinación que no afecta organizacionalmente ni presupuestalmente a la entidad, y atendiendo a la necesidad de lograr una mayor participación de los funcionarios que conforman los diferentes órganos estructurados del Gobierno Regional de Lambayeque en la adopción de desiciones de interes institucional.
+Que, no existe prohibición legal alguna para incorporar como integrantes del Directorio de Gerentes Regionales a los Jefes de las Oficinas Regionales y al Secretario General, y considerando que su conformación esta prescrita en el artículo 19 del Reglamento de Organización y Funciones – ROF – del Gobierno Regional de Lambayeque, es necesario proceder a su modificación.
+Por lo que estando a lo dispuesto por el Artículo 38º de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales, el Consejo Regional del Gobierno Regional del departamento de Lambayeque ha emitido la siguiente Ordenanza Regional;
+SE ORDENA:
