@@ -1,0 +1,1 @@
+Artículo Único.- DISPONER la elaboración del Reglamento de la presente Ordenanza Regional en un plazo no mayor a 30 días hábiles, el mismo que deberá ser aprobado mediante Resolución Gerencial Regional, emitida por la Gerencia Regional de Programas Sociales del Gobierno Regional de Lambayeque.

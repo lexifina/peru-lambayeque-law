@@ -1,0 +1,10 @@
+Artículo Sexto.- NOTIFICAR la presente Ordenanza Regional a las instancias administrativas correspondientes para su cumplimiento.
+Artículo Séptimo.- La presente Ordenanza Regional, entrará en vigencia a partir del día siguiente de su publicación en el Diario Oficial “El Peruano”.
+Comuníquese al Gobernador del Gobierno Regional Lambayeque para su promulgación conforme a Ley.
+Dado en Sesión Ordinaria del Consejo Regional del Gobierno Regional de Lambayeque, a los ocho días del mes de mayo del año dos mil veinticuatro.
+JUAN PABLO HORNA SANTA CRUZ.
+Consejero Delegado.
+POR TANTO:
+Mando se registre, publique y cumpla.
+JORGE LUIS PEREZ FLORES
+Gobernador Regional

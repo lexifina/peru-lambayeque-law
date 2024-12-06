@@ -1,0 +1,1 @@
+Artículo Cuarto.- DISPONER que la Gerencia General Regional y la Gerencia Regional de Programas Sociales del Gobierno Regional de Lambayeque, realicen las acciones que correspondan para la implementación de lo aprobado en la presente Ordenanza Regional.
