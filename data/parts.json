@@ -1,0 +1,174 @@
+{
+ "parts": {
+  "30-ordenanzas-01.json": {
+   "acts": [
+    "ordenanza-regional-000001-2023-gr-lamb-cr-4296799-18",
+    "ordenanza-regional-000001-2025-gr-lamb-cr-515456254-17",
+    "ordenanza-regional-000001-2026-gr-lamb-cr-515696391-60",
+    "ordenanza-regional-000002-2026-gr-lamb-cr-516188407-20",
+    "ordenanza-regional-000003-2019-gr-lamb-cr-3150550-8",
+    "ordenanza-regional-000003-2022-gr-lamb-cr-4139442-53",
+    "ordenanza-regional-000003-2024-gr-lamb-cr-4525277-20",
+    "ordenanza-regional-000003-2026-gr-lamb-cr-515907244-37",
+    "ordenanza-regional-000004-2019-gr-lamb-cr-3120473-168",
+    "ordenanza-regional-000004-2024-gr-lamb-cr-215127716-14",
+    "ordenanza-regional-000005-2019-gr-lamb-cr-3167347-4",
+    "ordenanza-regional-000005-2025-gr-lamb-cr-515706957-33",
+    "ordenanza-regional-000005-2026-gr-lamb-cr-516044786-12",
+    "ordenanza-regional-000006-2019-gr-lamb-cr-3085458-373",
+    "ordenanza-regional-000006-2024-gr-lamb-cr-4648082-6",
+    "ordenanza-regional-000006-2025-gr-lamb-cr-515625082-10",
+    "ordenanza-regional-000006-2026-gr-lamb-cr-515907244-55",
+    "ordenanza-regional-000007-2019-gr-lamb-cr-3069109-10",
+    "ordenanza-regional-000007-2024-gr-lamb-cr-515325300-18",
+    "ordenanza-regional-000007-2025-gr-lamb-cr-515471525-23",
+    "ordenanza-regional-000007-2026-gr-lamb-cr-515912235-30",
+    "ordenanza-regional-000008-2026-gr-lamb-cr-515968718-24",
+    "ordenanza-regional-000009-2024-gr-lamb-cr-275260716-7",
+    "ordenanza-regional-000009-2025-gr-lamb-cr-515296779-143",
+    "ordenanza-regional-000009-2026-gr-lamb-cr-516074126-13",
+    "ordenanza-regional-000010-2019-gr-lamb-cr-3171807-19",
+    "ordenanza-regional-000010-2022-gr-lamb-cr",
+    "ordenanza-regional-000011-2026-gr-lamb-cr-515907244-72",
+    "ordenanza-regional-000012-2024-gr-lamb-cr-2839110-48",
+    "ordenanza-regional-000012-2025-gr-lamb-cr-515801285-12",
+    "ordenanza-regional-000012-2026-gr-lamb-cr-516379120-10",
+    "ordenanza-regional-000013-2024-gr-lamb-cr-515553029-15",
+    "ordenanza-regional-000013-2025-gr-lamb-cr-515501658-116",
+    "ordenanza-regional-000013-2026-gr-lamb-cr-516296499-11",
+    "ordenanza-regional-000014-2026-gr-lamb-cr-516054403-39",
+    "ordenanza-regional-000015-2025-gr-lamb-cr-515472579-136",
+    "ordenanza-regional-000016-2024-gr-lamb-cr-515340082-38",
+    "ordenanza-regional-000016-2025-gr-lamb-cr-515834510-10",
+    "ordenanza-regional-000018-2025-gr-lamb-cr-515885276-11",
+    "ordenanza-regional-000019-2025-gr-lamb-cr-515824671-16",
+    "ordenanza-regional-000020-2018-gr-lamb-cr-2845436-14"
+   ],
+   "sha256": "c1f52426c7132a1299d7d490a374f613f2ba188d89170af5e341036606b7f2be"
+  },
+  "30-ordenanzas-02.json": {
+   "acts": [
+    "ordenanza-regional-000002-2019-gr-lamb-cr-3123837-8",
+    "ordenanza-regional-001-2017-gr-lamb-cr",
+    "ordenanza-regional-001-2018-gr-lamb-cr",
+    "ordenanza-regional-001-2019-gr-lamb-cr",
+    "ordenanza-regional-002-2016-gr-lamb-cr",
+    "ordenanza-regional-002-2017-gr-lamb-cr",
+    "ordenanza-regional-002-2018-gr-lamb-cr",
+    "ordenanza-regional-003-2016-gr-lamb-cr",
+    "ordenanza-regional-003-2017-gr-lamb-cr",
+    "ordenanza-regional-003-2018-gr-lamb-cr",
+    "ordenanza-regional-004-2016-gr-lamb-cr",
+    "ordenanza-regional-004-2017-gr-lamb-cr",
+    "ordenanza-regional-004-2018-gr-lamb-cr",
+    "ordenanza-regional-005-2016-gr-lamb-cr",
+    "ordenanza-regional-005-2017-gr-lamb-cr",
+    "ordenanza-regional-006-2017-gr-lamb-cr",
+    "ordenanza-regional-007-2016-gr-lamb-cr",
+    "ordenanza-regional-007-2017-gr-lamb-cr",
+    "ordenanza-regional-007-2018-gr-lamb-cr",
+    "ordenanza-regional-008-2016-gr-lamb-cr",
+    "ordenanza-regional-008-2017-gr-lamb-cr",
+    "ordenanza-regional-009-2016-gr-lamb-cr",
+    "ordenanza-regional-009-2017-gr-lamb-cr",
+    "ordenanza-regional-009-2018-gr-lamb-cr",
+    "ordenanza-regional-010-2016-gr-lamb-cr",
+    "ordenanza-regional-010-2017-gr-lamb-cr",
+    "ordenanza-regional-011-2016-gr-lamb-cr",
+    "ordenanza-regional-011-2017-gr-lamb-cr",
+    "ordenanza-regional-012-2016-gr-lamb-cr",
+    "ordenanza-regional-012-2017-gr-lamb-cr",
+    "ordenanza-regional-012-2018-gr-lamb-cr",
+    "ordenanza-regional-013-2016-gr-lamb-cr",
+    "ordenanza-regional-015-2017-gr-lamb-cr",
+    "ordenanza-regional-016-2017-gr-lamb-cr",
+    "ordenanza-regional-017-2017-gr-lamb-cr",
+    "ordenanza-regional-018-2017-gr-lamb-cr",
+    "ordenanza-regional-020-2017-gr-lamb-cr",
+    "ordenanza-regional-022-2017-gr-lamb-cr",
+    "ordenanza-regional-026-2017-gr-lamb-cr",
+    "ordenanza-regional-027-2017-gr-lamb-cr",
+    "ordenanza-regional-028-2017-gr-lamb-cr",
+    "ordenanza-regional-08-2018-gr-lamb-cr"
+   ],
+   "sha256": "ec5b2cade006de6c7ea214632a9d7345916d070cc4a3472ee7c6dbd3bdc1e5eb"
+  },
+  "31-recuperadas-01.json": {
+   "acts": [
+    "ordenanza-regional-000004-2026-gr-lamb-cr-515912209-48",
+    "ordenanza-regional-000008-2024-gr-lamb-cr-515302051-13",
+    "ordenanza-regional-000015-2024-gr-lamb-cr-515509436-14",
+    "ordenanza-regional-000020-2025-gr-lamb-cr-515883348-10"
+   ],
+   "sha256": "185e842fc116bbdc7200518f4f3bd53b2f4765f162a7f1aab233bfc45fccc543"
+  },
+  "32-anteriores-01.json": {
+   "acts": [
+    "ordenanza-regional-011-2011-gr-lamb-cr",
+    "ordenanza-regional-012-2011-gr-lamb-cr",
+    "ordenanza-regional-014-2011-gr-lamb-cr",
+    "ordenanza-regional-017-2011-gr-lamb-cr",
+    "ordenanza-regional-018-2007-gr-lamb-c-r",
+    "ordenanza-regional-020-2015-gr-lamb-cr",
+    "ordenanza-regional-021-2015-gr-lamb-cr",
+    "ordenanza-regional-022-2015-gr-lamb-cr",
+    "ordenanza-regional-023-2015-gr-lamb-cr",
+    "ordenanza-regional-024-2015-gr-lamb-cr",
+    "ordenanza-regional-025-2015-gr-lamb-cr",
+    "ordenanza-regional-026-2015-gr-lamb-cr",
+    "ordenanza-regional-027-2015-gr-lamb-cr",
+    "ordenanza-regional-028-2015-gr-lamb-cr",
+    "ordenanza-regional-029-2015-gr-lamb-cr",
+    "ordenanza-regional-030-2015-gr-lamb-cr",
+    "ordenanza-regional-031-2015-gr-lamb-cr"
+   ],
+   "sha256": "c0de0022b74e28ccc0975f8d2c7e8dc77ccc755b48a07aced73abec9dc0e6898"
+  },
+  "32-anteriores-02.json": {
+   "acts": [
+    "ordenanza-regional-010-2009-gr-lamb-cr",
+    "ordenanza-regional-014-2009-gr-lamb-cr"
+   ],
+   "sha256": "d96e5ddb915e3ce01ef641638a38044be2869c56f7e69ce1023f5e1bfbe28b02"
+  },
+  "32-anteriores-03.json": {
+   "acts": [
+    "ordenanza-regional-002-2010-gr-lamb-cr",
+    "ordenanza-regional-005-2011-gr-lamb-cr",
+    "ordenanza-regional-008-2010-gr-lamb-cr",
+    "ordenanza-regional-009-2012-gr-lamb-cr",
+    "ordenanza-regional-010-2012-gr-lamb-cr",
+    "ordenanza-regional-014-2010-gr-lamb-cr",
+    "ordenanza-regional-016-2010-gr-lamb-cr",
+    "ordenanza-regional-020-2010-gr-lamb-cr",
+    "ordenanza-regional-022-2010-gr-lamb-cr",
+    "ordenanza-regional-024-2009-gr-lamb-cr",
+    "ordenanza-regional-024-2010-gr-lamb-cr",
+    "ordenanza-regional-027-2010-gr-lamb-cr",
+    "ordenanza-regional-028-2009-gr-lamb-cr"
+   ],
+   "sha256": "1a3900a5a861be610534e14c5d3cd959defc095e28c3f4041dbbae73c061d4b9"
+  },
+  "32-anteriores-04.json": {
+   "acts": [
+    "ordenanza-regional-003-2012-gr-lamb-cr",
+    "ordenanza-regional-007-2012-gr-lamb-cr",
+    "ordenanza-regional-009-2015-gr-lamb-cr",
+    "ordenanza-regional-013-2012-gr-lamb-cr",
+    "ordenanza-regional-013-2015-gr-lamb-cr",
+    "ordenanza-regional-014-2013-gr-lamb-cr",
+    "ordenanza-regional-015-2015-gr-lamb-cr",
+    "ordenanza-regional-018-2015-g-r-lamb-cr",
+    "ordenanza-regional-021-2012-gr-lamb-cr"
+   ],
+   "sha256": "6537e29a8623af09930439b29b550a3c07709cd981be858f41f2c3e30c2d7a11"
+  },
+  "32-anteriores-05.json": {
+   "acts": [
+    "ordenanza-regional-002-2015-gr-lamb-cr"
+   ],
+   "sha256": "b8cfa071f3766d8392755e8708fdb85073d883c39e02c00db336692b69128b03"
+  }
+ },
+ "schema": 1
+}
