@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-213 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+217 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -227,6 +227,10 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-020-2009-gr-lamb-cr/` | Ordenanza Regional N° 020-2009-GR.LAMB./CR: Amplían plazo de suspensión de espectáculos y eventos públicos de todo tipo de asistencia masiva, incluyendo la susp… | in force 22 August 2009 |
 | `ordenanza-regional-019-2009-gr-lamb-cr/` | Ordenanza Regional N° 019-2009-GR.LAMB./CR: Declaran de prioridad acciones de promoción, prevención y control contra la Influenza y suspenden espectáculos y eve… | in force 6 August 2009 |
 | `ordenanza-regional-016-2009-gr-lamb-cr/` | Ordenanza Regional N° 016-2009-GR.LAMB./CR: Modifican Conformación de diversas Comisiones Ordinarias a que se refiere la Ordenanza Regional N° 001-2007-GR.LAMB/… | in force 29 June 2009 |
+| `ordenanza-regional-015-2009-gr-lamb-cr/` | Ordenanza Regional N° 015-2009-GR.LAMB/CR: Modifican  la Ordenanza Regional N° 005-2009-GR.LAMB./CR | in force 29 June 2009 |
+| `ordenanza-regional-013-2009-gr-lamb-cr/` | Ordenanza Regional N° 013-2009-GR.LAMB./CR: Aprueban Texto Único de Procedimientos Administrativos del Hospital Provincial Docente "Belén" de Lambayeque | in force 29 June 2009 |
+| `ordenanza-regional-012-2009-gr-lamb-cr/` | Ordenanza Regional N° 012-2009-GR.LAMB/CR: Encargan a la Gerencia Regional de Desarrollo Social la implementación de la política regional que aborda el trabajo … | in force 16 May 2009 |
+| `ordenanza-regional-011-2009-gr-lamb-cr/` | Ordenanza Regional N° 011-2009-GR.LAMB./CR: Aprueban el Plan Regional de la Juventud y Cultura de Paz | in force 3 May 2009 |
 
 ## Source
 

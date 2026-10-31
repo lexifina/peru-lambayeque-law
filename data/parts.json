@@ -262,6 +262,15 @@
     "ordenanza-regional-21-2011-gr-lamb-cr"
    ],
    "sha256": "fb70e6357c7f09c26a434da6763be2ae664c9cf55a93b1cb9e73f7b0b9e18bdd"
+  },
+  "33-runner-03.json": {
+   "acts": [
+    "ordenanza-regional-011-2009-gr-lamb-cr",
+    "ordenanza-regional-012-2009-gr-lamb-cr",
+    "ordenanza-regional-013-2009-gr-lamb-cr",
+    "ordenanza-regional-015-2009-gr-lamb-cr"
+   ],
+   "sha256": "2de0c90d7ddd27c9c83ba9ed9781246c6016a2af0d2bf698ef058d8fdcdca722"
   }
  },
  "schema": 1

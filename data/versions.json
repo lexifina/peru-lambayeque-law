@@ -2982,6 +2982,62 @@
      "sha256": "af2f9a97d0f11b63d0a7da42c62a376de393789fefd40452711d19d32b9fed5b"
     }
    ]
+  },
+  {
+   "slug": "ordenanza-regional-015-2009-gr-lamb-cr",
+   "short": "Ordenanza Regional N° 015-2009-GR.LAMB/CR",
+   "title": "Ordenanza Regional N° 015-2009-GR.LAMB/CR: Modifican  la Ordenanza Regional N° 005-2009-GR.LAMB./CR",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/366080-1",
+   "versions": [
+    {
+     "from": "2009-06-29",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/40nnQKAYa8n8EnvNOS2fsV/*/366080-1.pdf",
+     "sha256": "303b2b81a3327bcf979d9f458ae6b4ec0fec98f8aea7728d431a3f6c7b04ec7f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-013-2009-gr-lamb-cr",
+   "short": "Ordenanza Regional N° 013-2009-GR.LAMB./CR",
+   "title": "Ordenanza Regional N° 013-2009-GR.LAMB./CR: Aprueban Texto Único de Procedimientos Administrativos del Hospital Provincial Docente \"Belén\" de Lambayeque",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/366079-1",
+   "versions": [
+    {
+     "from": "2009-06-29",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/3vzkvXo0aWs8HY13whXDoH/*/366079-1.pdf",
+     "sha256": "3b779a7e92cd409016e7ca8e65196c1281372f99de390b4d30b12b0b486f2a76"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-012-2009-gr-lamb-cr",
+   "short": "Ordenanza Regional N° 012-2009-GR.LAMB/CR",
+   "title": "Ordenanza Regional N° 012-2009-GR.LAMB/CR: Encargan a la Gerencia Regional de Desarrollo Social la implementación de la política regional que aborda el trabajo infantil en la Educación Inclusiva a nivel de la región Lambayeque",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/347799-1",
+   "versions": [
+    {
+     "from": "2009-05-16",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6ObSRSLhK8aAH6je0onVXG/*/347799-1.pdf",
+     "sha256": "e1476c4266ce3d09460e09a3b41cc56c939b95ea8622acfad0fbc979451c1b99"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-011-2009-gr-lamb-cr",
+   "short": "Ordenanza Regional N° 011-2009-GR.LAMB./CR",
+   "title": "Ordenanza Regional N° 011-2009-GR.LAMB./CR: Aprueban el Plan Regional de la Juventud y Cultura de Paz",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/342890-1",
+   "versions": [
+    {
+     "from": "2009-05-03",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7-AZSsh2q7QBNjqjbMbSZ4/*/342890-1.pdf",
+     "sha256": "2dbb9a87b7064011d3788a636a1eed97f371592aae86841da05885bbbbb1fa29"
+    }
+   ]
   }
  ]
 }

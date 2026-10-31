@@ -234,20 +234,24 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-020-2009-gr-lamb-cr` | Ordenanza Regional N° 020-2009-GR.LAMB./CR: Amplían plazo de suspensión de espectáculos y eventos públicos de todo tipo de asistencia masiva, incluyendo la suspensión de actividades educativas | 1 | 2009-08-22 to 2009-08-22 |
 | `ordenanza-regional-019-2009-gr-lamb-cr` | Ordenanza Regional N° 019-2009-GR.LAMB./CR: Declaran de prioridad acciones de promoción, prevención y control contra la Influenza y suspenden espectáculos y eventos públicos con asistencia masiva hasta el 10 de agosto | 1 | 2009-08-06 to 2009-08-06 |
 | `ordenanza-regional-016-2009-gr-lamb-cr` | Ordenanza Regional N° 016-2009-GR.LAMB./CR: Modifican Conformación de diversas Comisiones Ordinarias a que se refiere la Ordenanza Regional N° 001-2007-GR.LAMB/CR | 1 | 2009-06-29 to 2009-06-29 |
+| `ordenanza-regional-015-2009-gr-lamb-cr` | Ordenanza Regional N° 015-2009-GR.LAMB/CR: Modifican  la Ordenanza Regional N° 005-2009-GR.LAMB./CR | 1 | 2009-06-29 to 2009-06-29 |
+| `ordenanza-regional-013-2009-gr-lamb-cr` | Ordenanza Regional N° 013-2009-GR.LAMB./CR: Aprueban Texto Único de Procedimientos Administrativos del Hospital Provincial Docente "Belén" de Lambayeque | 1 | 2009-06-29 to 2009-06-29 |
+| `ordenanza-regional-012-2009-gr-lamb-cr` | Ordenanza Regional N° 012-2009-GR.LAMB/CR: Encargan a la Gerencia Regional de Desarrollo Social la implementación de la política regional que aborda el trabajo infantil en la Educación Inclusiva a nivel de la región Lambayeque | 1 | 2009-05-16 to 2009-05-16 |
+| `ordenanza-regional-011-2009-gr-lamb-cr` | Ordenanza Regional N° 011-2009-GR.LAMB./CR: Aprueban el Plan Regional de la Juventud y Cultura de Paz | 1 | 2009-05-03 to 2009-05-03 |
 
-The build made 213 commits:
+The build made 217 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 213 | first version of an act |
+| 217 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 1 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 213 laws in the record.
-- 427 tags.
+- 217 laws in the record.
+- 435 tags.
 
 ## Dates
 
@@ -259,7 +263,7 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `1a68550b9130192cf88a89da4a7d52e0d45f65d22555feef7c443e848e95cc91` (2449609 bytes).
+- Corpus: sha256 `8caa0200eba58ae322f2aeed829b5e7192e82e4242cf241aa55982b047bc6f96` (2482876 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
