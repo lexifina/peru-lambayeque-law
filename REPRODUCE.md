@@ -182,20 +182,72 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-016-2012-gr-lamb-cr` | Ordenanza Regional N° 016-2012-GR.LAMB/CR: Modifican Cuadro para Asignación de Personal del Hospital Regional Lambayeque | 1 | 2012-10-28 to 2012-10-28 |
 | `ordenanza-regional-015-2012-gr-lamb-cr` | Ordenanza Regional N° 015-2012-GR.LAMB/CR: Modifican la Ordenanza N° 005-2004-GR.LAMB/CR y disponen la reconformación de la Agencia Regional de Fomento de la Inversión Privada de Lambayeque - AFIP Lambayeque | 1 | 2012-09-08 to 2012-09-08 |
 | `ordenanza-regional-014-2012-gr-lamb-cr` | Ordenanza Regional N° 014-2012-GR.LAMB./CR: Declaran festividad oficial de la Región Lambayeque al "Festival de la Amistad y la Gastronomía" e instituyen el 7 de octubre como Feriado Regional laborable | 1 | 2012-08-19 to 2012-08-19 |
+| `ordenanza-regional-012-2012-gr-lamb-cr` | Ordenanza Regional N° 012-2012-GR.LAMB/CR: Establecen la conformación del Consejo Regional de la Micro y Pequeña Empresa de la Región Lambayeque | 1 | 2012-07-23 to 2012-07-23 |
+| `ordenanza-regional-011-2012-gr-lamb-cr` | Ordenanza Regional N° 011-2012-GR.LAMB./CR: Disponen  que se realicen acciones para incluir en el plan curricular de las instituciones educativas el análisis y aprendizaje del Himno a la Región Lambayque y entonarlo en ceremonias protocolares de instituciones públicas y privadas de la región | 1 | 2012-07-23 to 2012-07-23 |
+| `ordenanza-regional-008-2012-gr-lamb-cr` | Ordenanza Regional N° 008-2012-GR.LAMB/CR: Actualizan el Sistema Regional de Gestión Ambiental para la Región Lambayeque - SRGA, aprobado mediante Ordenanza Regional N° 026-2003-GR.LAMB./CR | 1 | 2012-04-29 to 2012-04-29 |
+| `ordenanza-regional-006-2012-gr-lamb-cr` | Ordenanza Regional N° 006-2012-GR.LAMB./CR: Modifican el Artículo 62° del Reglamento Interno del Consejo Regional, en cuanto a la denominación de las comisiones ordinarias del Consejo Regional | 1 | 2012-03-30 to 2012-03-30 |
+| `ordenanza-regional-005-2012-gr-lamb-cr` | Ordenanza Regional N° 005-2012-GR-LAMB/CR: Aprueban Reglamento del Proceso de Formulación del Presupuesto Participativo del Gobierno Regional Lambayeque - Año Fiscal 2013 | 1 | 2012-03-06 to 2012-03-06 |
+| `ordenanza-regional-004-2012-gr-lamb-cr` | Ordenanza Regional N° 004-2012-GR.LAMB./CR: Modifican artículo 54° del Reglamento de Organización y Funciones del Gobierno Regional Lambayeque | 1 | 2012-02-23 to 2012-02-23 |
+| `ordenanza-regional-002-2012-gr-lamb-cr` | Ordenanza Regional N° 002-2012-GR.LAMB./CR: Aprueban Plan Piloto Anticorrupción en el Sector Educación para el Gobierno Regional de Lambayeque | 1 | 2012-02-18 to 2012-02-18 |
+| `ordenanza-regional-001-2012-g-r-lamb-cr` | Ordenanza Regional N° 001-2012-G.R.LAMB./CR: Modifican el Reglamento de Organización y Funciones del Gobierno Regional de Lambayeque | 1 | 2012-02-02 to 2012-02-02 |
+| `ordenanza-regional-21-2011-gr-lamb-cr` | Ordenanza Regional N° 21-2011-GR.LAMB/CR: Declaran el día 20 de diciembre como Día Cívico laborable en toda la Región Lambayeque, con ocasión de la culminación de la perforación del Túnel Trasandino del Proyecto de Irrigación Olmos | 1 | 2012-01-07 to 2012-01-07 |
+| `ordenanza-regional-018-2011-gr-lamb-cr` | Ordenanza Regional N° 018-2011-GR.LAMB/CR: Constituyen el Consejo Regional de la Juventud - COREJU Lambayeque | 1 | 2012-01-07 to 2012-01-07 |
+| `ordenanza-regional-020-2011-gr-lamb-cr` | Ordenanza Regional N° 020-2011-GR.LAMB/CR: Institucionalizan en el Gobierno Regional de Lambayeque el Día Internacional de la Paz, a celebrarse el 21 de setiembre de todos los años | 1 | 2012-01-07 to 2012-01-07 |
+| `ordenanza-regional-019-2011-gr-lamb-cr` | Ordenanza Regional N° 019-2011-GR.LAMB/CR: Modifican la Ordenanza Regional N° 002-2011-GR.LAMB/CR
 
-The build made 164 commits:
+
+. | 1 | 2012-01-07 to 2012-01-07 |
+| `ordenanza-regional-015-2011-gr-lamb-cr` | Ordenanza Regional N° 015-2011-GR.LAMB./CR: Constituyen la Unidad de Servicios Descentralizados del Hospital Regional Docente "Las Mercedes" y aprueban su CAP | 1 | 2011-09-10 to 2011-09-10 |
+| `ordenanza-regional-010-2011-gr-lamb-cr` | Ordenanza Regional N° 010-2011-GR.LAMB./CR: Aprueban Plan de Desarrollo Regional Concertado Lambayeque 2011-2021 del Gobierno Regional de Lambayeque | 1 | 2011-05-15 to 2011-05-15 |
+| `ordenanza-regional-009-2011-gr-lamb-cr` | Ordenanza Regional N° 009-2011-GR.LAMB./CR: Aprueban actualización del Reglamento de Organización y Funciones del Gobierno Regional Lambayeque | 1 | 2011-04-30 to 2011-04-30 |
+| `ordenanza-regional-08-2011-gr-lamb-cr` | Ordenanza Regional N° 08-2011-GR.LAMB./CR: Aprueban Reglamento de Identificación y Acreditación de los Agentes Participantes para el Proceso de Elaboración del Presupuesto Participativo del Gobierno Regional de Lambayeque - Año Fiscal 2012 | 1 | 2011-04-18 to 2011-04-18 |
+| `ordenanza-regional-07-2011-gr-lamb-cr` | Ordenanza Regional N° 07-2011-GR.LAMB./CR: Denominan el año 2011 como el "Año del Centenario del Nacimiento de José María Arguedas Altamirano" | 1 | 2011-03-14 to 2011-03-14 |
+| `ordenanza-regional-06-2011-gr-lamb-cr` | Ordenanza Regional N° 06-2011-GR.LAMB./CR: Aprueban el Plan Regional de Población 2011-2021 | 1 | 2011-02-28 to 2011-02-28 |
+| `ordenanza-regional-002-2011-gr-lamb-cr` | Ordenanza Regional N° 002-2011-GR.LAMB/CR: Declaran de interés regional para su conservación,el Bosque de La Otra Banda, ubicado en el distrito de Zaña, provincia de Chiclayo | 1 | 2011-02-04 to 2011-02-04 |
+| `ordenanza-regional-004-2011-gr-lamb-cr` | Ordenanza Regional N° 004-2011-GR.LAMB./CR: Aprueban documento de gestión "Estrategia Regional de Seguridad Alimentaria de Lambayeque 2010-2021 - ERSA Lambayeque" | 1 | 2011-01-31 to 2011-01-31 |
+| `ordenanza-regional-001-2011-gr-lamb-cr` | Ordenanza Regional N° 001-2011-GR.LAMB./CR: Declaran a Lambayeque como Región libre de transgénicos y productos contaminados | 1 | 2011-01-31 to 2011-01-31 |
+| `ordenanza-regional-003-2011-gr-lamb-cr` | Ordenanza Regional N° 003-2011-GR.LAMB./CR: Constituyen el Comité Promotor de las Escuelas Regionales Técnicas de Lambayeque | 1 | 2011-01-31 to 2011-01-31 |
+| `ordenanza-regional-028-2010-gr-lamb-cr` | Ordenanza Regional N° 028-2010-GR.LAMB./CR: Constituyen el Consejo Regional Multisectorial de Desarrollo Social de Lambayeque | 1 | 2010-12-30 to 2010-12-30 |
+| `ordenanza-regional-029-2010-gr-lamb-cr` | Ordenanza Regional N° 029-2010-GR.LAMB./CR: Aprueban el programa "Consejero por un Día" destinado a la participación de instituciones educativas públicas y privadas de la Región Lambayeque | 1 | 2010-12-30 to 2010-12-30 |
+| `ordenanza-regional-026-2010-gr-lamb-cr` | Ordenanza Regional N° 026-2010-GR.LAMB./CR: Modifican conformación de la Comisión Ordinaria de Salud, Mujer y Derechos Humanos y la Comisión Ordinaria de Recursos Naturales y Gestión del Medio Ambiente | 1 | 2010-12-17 to 2010-12-17 |
+| `ordenanza-regional-021-2010-gr-lamb-cr` | Ordenanza Regional N° 021-2010-GR.LAMB/CR: Aprueban TUPA del Proyecto Especial Olmos Tinajones - PEOT del Gobierno Regional de Lambayeque - Año 2010 | 1 | 2010-09-17 to 2010-09-17 |
+| `ordenanza-regional-019-2010-gr-lamb-cr` | Ordenanza Regional N° 019-2010-GR.LAMB./CR: Declaran de interés regional la protección y puesta en valor de inmueble ubicado en la ciudad de Ferreñafe, declarado Monumento Integrante del Patrimonio Cultural de la Nación por el INC | 1 | 2010-08-19 to 2010-08-19 |
+| `ordenanza-regional-013-2010-gr-lamb-cr` | Ordenanza Regional N° 013-2010-GR.LAMB./CR: Aprueban Texto Único de Procedimientos Administrativos de la Dirección Regional de Producción - Gobierno Regional de Lambayeque - Año 2010 | 1 | 2010-07-06 to 2010-07-06 |
+| `ordenanza-regional-015-2010-gr-lamb-cr` | Ordenanza Regional N° 015-2010-GR.LAMB./CR: Aprueban Texto Único de Procedimientos Administrativos de la Dirección Regional de Transportes y Comunicaciones - Año 2010 | 1 | 2010-07-05 to 2010-07-05 |
+| `ordenanza-regional-012-2010-gr-lamb-cr` | Ordenanza Regional N° 012-2010-GR.LAMB./CR: Aprueban la implementación de los Sistemas Comunitarios de Alerta Temprana en las cuencas ubicadas en el ámbito del departamento de Lambayeque | 1 | 2010-06-11 to 2010-06-11 |
+| `ordenanza-regional-011-2010-gr-lamb-cr` | Ordenanza Regional N° 011-2010-GR.LAMB./CR: Reconocen al idioma castellano y quechua local como patrimonios lingüísticos e idiomas oficiales de la Región Lambayeque | 1 | 2010-06-05 to 2010-06-05 |
+| `ordenanza-regional-009-2010-gr-lamb-cr` | Ordenanza Regional N° 009-2010-GR.LAMB./CR: Reconocen al Consejo Regional de Turismo de Lambayeque como máxima instancia de diálogo, coordinación y concertación para el desarrollo del turismo sostenible en la región y establecen su conformación. | 1 | 2010-04-19 to 2010-04-19 |
+| `ordenanza-regional-007-2010-gr-lamb-cr` | Ordenanza Regional N° 007-2010-GR.LAMB./CR: Amplían plazo de reestructuración administrativa y presupuestal del Gobierno Regional declarado mediante la Ordenanza N° 001-2010-GR.LAMB./CR | 1 | 2010-04-17 to 2010-04-17 |
+| `ordenanza-regional-04-2010-gr-lamb-cr` | Ordenanza Regional N° 04-2010-GR.LAMB/CR: Aprueban Reglamento de Identificación y Acreditación de los Agentes Participantes para el Proceso de Elaboración del Presupuesto Participativo del Gobierno Regional de Lambayeque Año Fiscal 2011 | 1 | 2010-03-30 to 2010-03-30 |
+| `ordenanza-regional-003-2010-gr-lamb-cr` | Ordenanza Regional N° 003-2010-GR.LAMB./CR: Modifican artículo del Reglamento de Organización y Funciones del Gobierno Regional | 1 | 2010-03-22 to 2010-03-22 |
+| `ordenanza-regional-001-2010-gr-lamb-cr` | Ordenanza Regional N° 001-2010-GR.LAMB./CR: Declaran en reestructuración administrativa y presupuestal al Gobierno Regional de Lambayeque | 1 | 2010-01-23 to 2010-01-23 |
+| `ordenanza-regional-031-2009-gr-lamb-cr` | Ordenanza Regional N° 031-2009-GR.LAMB./CR: Aprueban Plan Estratégico Regional Multisectorial 2010 - 2015 para la prevención y control de las Infecciones de Transmisión Sexual,  VIH y SIDA | 1 | 2010-01-15 to 2010-01-15 |
+| `ordenanza-regional-029-2009-gr-lamb-cr` | Ordenanza Regional N° 029-2009-GR.LAMB./CR: Conforman  y aprueban adecuación de la Comisión Ambiental Regional - Lambayeque al D. Leg. N° 1013 - Ley de Creación, Organización y Función del Ministerio del Ambiente | 1 | 2009-12-13 to 2009-12-13 |
+| `ordenanza-regional-030-2009-gr-lamb-cr` | Ordenanza Regional N° 030-2009-GR.LAMB./CR: Modifican la Ordenanza N° 027-2006-GR.LAMB./CR que declaró de interés regional la Zonificación Ecológica Económica en el departamento de Lambayeque | 1 | 2009-12-13 to 2009-12-13 |
+| `ordenanza-regional-027-2009-gr-lamb-cr` | Ordenanza Regional N° 027-2009-GR.LAMB./CR: Disponen que toda persona que presta servicios o labora bajo cualquier régimen jurídico con el Gobierno Regional y sus dependencias, deberá presentar anualmente la declaración jurada de no ser deudor alimentario moroso | 1 | 2009-10-23 to 2009-10-23 |
+| `ordenanza-regional-026-2009-gr-lamb-cr` | Ordenanza Regional N° 026-2009-GR.LAMB./CR: Establecen que todas las dependencias del Gobierno Regional  registren información estadística desagregada, acorde al servicio o servicios que prestan a la comunidad, o a la actividad que desarrollen | 1 | 2009-10-23 to 2009-10-23 |
+| `ordenanza-regional-023-2009-gr-lamb-cr` | Ordenanza Regional N° 023-2009-GR.LAMB./CR: Declaran Área de Interés Regional para la Conservación extensión de terreno ubicada en el distrito de Oyotún, provincia de Chiclayo | 1 | 2009-09-28 to 2009-09-28 |
+| `ordenanza-regional-025-2009-gr-lamb-cr` | Ordenanza Regional N° 025-2009-GR.LAMB./CR: Declaran al Glorioso Colegio Nacional de "San José" como Institución Educativa Emblemática y Patrimonio de la Región Lambayeque | 1 | 2009-09-28 to 2009-09-28 |
+| `ordenanza-regional-022-2009-gr-lamb-cr` | Ordenanza Regional N° 022-2009-GR.LAMB./CR: Declaran de interés prioritario para la Región Lambayeque la educación de las niñas y adolescentes rurales | 1 | 2009-09-28 to 2009-09-28 |
+| `ordenanza-regional-017-2009-gr-lamb-cr` | Ordenanza Regional N° 017-2009-GR.LAMB/CR: Modifican la Ordenanza N° 028-2003-GR.LAMB/CR, mediante la cual se creó el Consejo Regional de la Micro y Pequeña Empresa de la Región Lambayeque | 1 | 2009-09-24 to 2009-09-24 |
+| `ordenanza-regional-021-2009-gr-lamb-cr` | Ordenanza Regional N° 021-2009-GR.LAMB/CR: Promueven los programas regionales "Mi Lote" y "Mi Casa" | 1 | 2009-08-23 to 2009-08-23 |
+| `ordenanza-regional-020-2009-gr-lamb-cr` | Ordenanza Regional N° 020-2009-GR.LAMB./CR: Amplían plazo de suspensión de espectáculos y eventos públicos de todo tipo de asistencia masiva, incluyendo la suspensión de actividades educativas | 1 | 2009-08-22 to 2009-08-22 |
+| `ordenanza-regional-019-2009-gr-lamb-cr` | Ordenanza Regional N° 019-2009-GR.LAMB./CR: Declaran de prioridad acciones de promoción, prevención y control contra la Influenza y suspenden espectáculos y eventos públicos con asistencia masiva hasta el 10 de agosto | 1 | 2009-08-06 to 2009-08-06 |
+| `ordenanza-regional-016-2009-gr-lamb-cr` | Ordenanza Regional N° 016-2009-GR.LAMB./CR: Modifican Conformación de diversas Comisiones Ordinarias a que se refiere la Ordenanza Regional N° 001-2007-GR.LAMB/CR | 1 | 2009-06-29 to 2009-06-29 |
+
+The build made 213 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 164 | first version of an act |
+| 213 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 1 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 164 laws in the record.
-- 329 tags.
+- 213 laws in the record.
+- 427 tags.
 
 ## Dates
 
@@ -207,7 +259,7 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `640778b98856dc70d6473fcbdf2babecc08a49a0eadfc5f343cc7129e418ca87` (2021210 bytes).
+- Corpus: sha256 `1a68550b9130192cf88a89da4a7d52e0d45f65d22555feef7c443e848e95cc91` (2449609 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 

@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-164 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+213 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -176,6 +176,57 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-016-2012-gr-lamb-cr/` | Ordenanza Regional N° 016-2012-GR.LAMB/CR: Modifican Cuadro para Asignación de Personal del Hospital Regional Lambayeque | in force 28 October 2012 |
 | `ordenanza-regional-015-2012-gr-lamb-cr/` | Ordenanza Regional N° 015-2012-GR.LAMB/CR: Modifican la Ordenanza N° 005-2004-GR.LAMB/CR y disponen la reconformación de la Agencia Regional de Fomento de la In… | in force 8 September 2012 |
 | `ordenanza-regional-014-2012-gr-lamb-cr/` | Ordenanza Regional N° 014-2012-GR.LAMB./CR: Declaran festividad oficial de la Región Lambayeque al "Festival de la Amistad y la Gastronomía" e instituyen el 7 d… | in force 19 August 2012 |
+| `ordenanza-regional-012-2012-gr-lamb-cr/` | Ordenanza Regional N° 012-2012-GR.LAMB/CR: Establecen la conformación del Consejo Regional de la Micro y Pequeña Empresa de la Región Lambayeque | in force 23 July 2012 |
+| `ordenanza-regional-011-2012-gr-lamb-cr/` | Ordenanza Regional N° 011-2012-GR.LAMB./CR: Disponen  que se realicen acciones para incluir en el plan curricular de las instituciones educativas el análisis y … | in force 23 July 2012 |
+| `ordenanza-regional-008-2012-gr-lamb-cr/` | Ordenanza Regional N° 008-2012-GR.LAMB/CR: Actualizan el Sistema Regional de Gestión Ambiental para la Región Lambayeque - SRGA, aprobado mediante Ordenanza Reg… | in force 29 April 2012 |
+| `ordenanza-regional-006-2012-gr-lamb-cr/` | Ordenanza Regional N° 006-2012-GR.LAMB./CR: Modifican el Artículo 62° del Reglamento Interno del Consejo Regional, en cuanto a la denominación de las comisiones… | in force 30 March 2012 |
+| `ordenanza-regional-005-2012-gr-lamb-cr/` | Ordenanza Regional N° 005-2012-GR-LAMB/CR: Aprueban Reglamento del Proceso de Formulación del Presupuesto Participativo del Gobierno Regional Lambayeque - Año F… | in force 6 March 2012 |
+| `ordenanza-regional-004-2012-gr-lamb-cr/` | Ordenanza Regional N° 004-2012-GR.LAMB./CR: Modifican artículo 54° del Reglamento de Organización y Funciones del Gobierno Regional Lambayeque | in force 23 February 2012 |
+| `ordenanza-regional-002-2012-gr-lamb-cr/` | Ordenanza Regional N° 002-2012-GR.LAMB./CR: Aprueban Plan Piloto Anticorrupción en el Sector Educación para el Gobierno Regional de Lambayeque | in force 18 February 2012 |
+| `ordenanza-regional-001-2012-g-r-lamb-cr/` | Ordenanza Regional N° 001-2012-G.R.LAMB./CR: Modifican el Reglamento de Organización y Funciones del Gobierno Regional de Lambayeque | in force 2 February 2012 |
+| `ordenanza-regional-21-2011-gr-lamb-cr/` | Ordenanza Regional N° 21-2011-GR.LAMB/CR: Declaran el día 20 de diciembre como Día Cívico laborable en toda la Región Lambayeque, con ocasión de la culminación … | in force 7 January 2012 |
+| `ordenanza-regional-018-2011-gr-lamb-cr/` | Ordenanza Regional N° 018-2011-GR.LAMB/CR: Constituyen el Consejo Regional de la Juventud - COREJU Lambayeque | in force 7 January 2012 |
+| `ordenanza-regional-020-2011-gr-lamb-cr/` | Ordenanza Regional N° 020-2011-GR.LAMB/CR: Institucionalizan en el Gobierno Regional de Lambayeque el Día Internacional de la Paz, a celebrarse el 21 de setiemb… | in force 7 January 2012 |
+| `ordenanza-regional-019-2011-gr-lamb-cr/` | Ordenanza Regional N° 019-2011-GR.LAMB/CR: Modifican la Ordenanza Regional N° 002-2011-GR.LAMB/CR
+
+. | in force 7 January 2012 |
+| `ordenanza-regional-015-2011-gr-lamb-cr/` | Ordenanza Regional N° 015-2011-GR.LAMB./CR: Constituyen la Unidad de Servicios Descentralizados del Hospital Regional Docente "Las Mercedes" y aprueban su CAP | in force 10 September 2011 |
+| `ordenanza-regional-010-2011-gr-lamb-cr/` | Ordenanza Regional N° 010-2011-GR.LAMB./CR: Aprueban Plan de Desarrollo Regional Concertado Lambayeque 2011-2021 del Gobierno Regional de Lambayeque | in force 15 May 2011 |
+| `ordenanza-regional-009-2011-gr-lamb-cr/` | Ordenanza Regional N° 009-2011-GR.LAMB./CR: Aprueban actualización del Reglamento de Organización y Funciones del Gobierno Regional Lambayeque | in force 30 April 2011 |
+| `ordenanza-regional-08-2011-gr-lamb-cr/` | Ordenanza Regional N° 08-2011-GR.LAMB./CR: Aprueban Reglamento de Identificación y Acreditación de los Agentes Participantes para el Proceso de Elaboración del … | in force 18 April 2011 |
+| `ordenanza-regional-07-2011-gr-lamb-cr/` | Ordenanza Regional N° 07-2011-GR.LAMB./CR: Denominan el año 2011 como el "Año del Centenario del Nacimiento de José María Arguedas Altamirano" | in force 14 March 2011 |
+| `ordenanza-regional-06-2011-gr-lamb-cr/` | Ordenanza Regional N° 06-2011-GR.LAMB./CR: Aprueban el Plan Regional de Población 2011-2021 | in force 28 February 2011 |
+| `ordenanza-regional-002-2011-gr-lamb-cr/` | Ordenanza Regional N° 002-2011-GR.LAMB/CR: Declaran de interés regional para su conservación,el Bosque de La Otra Banda, ubicado en el distrito de Zaña, provinc… | in force 4 February 2011 |
+| `ordenanza-regional-004-2011-gr-lamb-cr/` | Ordenanza Regional N° 004-2011-GR.LAMB./CR: Aprueban documento de gestión "Estrategia Regional de Seguridad Alimentaria de Lambayeque 2010-2021 - ERSA Lambayequ… | in force 31 January 2011 |
+| `ordenanza-regional-001-2011-gr-lamb-cr/` | Ordenanza Regional N° 001-2011-GR.LAMB./CR: Declaran a Lambayeque como Región libre de transgénicos y productos contaminados | in force 31 January 2011 |
+| `ordenanza-regional-003-2011-gr-lamb-cr/` | Ordenanza Regional N° 003-2011-GR.LAMB./CR: Constituyen el Comité Promotor de las Escuelas Regionales Técnicas de Lambayeque | in force 31 January 2011 |
+| `ordenanza-regional-028-2010-gr-lamb-cr/` | Ordenanza Regional N° 028-2010-GR.LAMB./CR: Constituyen el Consejo Regional Multisectorial de Desarrollo Social de Lambayeque | in force 30 December 2010 |
+| `ordenanza-regional-029-2010-gr-lamb-cr/` | Ordenanza Regional N° 029-2010-GR.LAMB./CR: Aprueban el programa "Consejero por un Día" destinado a la participación de instituciones educativas públicas y priv… | in force 30 December 2010 |
+| `ordenanza-regional-026-2010-gr-lamb-cr/` | Ordenanza Regional N° 026-2010-GR.LAMB./CR: Modifican conformación de la Comisión Ordinaria de Salud, Mujer y Derechos Humanos y la Comisión Ordinaria de Recurs… | in force 17 December 2010 |
+| `ordenanza-regional-021-2010-gr-lamb-cr/` | Ordenanza Regional N° 021-2010-GR.LAMB/CR: Aprueban TUPA del Proyecto Especial Olmos Tinajones - PEOT del Gobierno Regional de Lambayeque - Año 2010 | in force 17 September 2010 |
+| `ordenanza-regional-019-2010-gr-lamb-cr/` | Ordenanza Regional N° 019-2010-GR.LAMB./CR: Declaran de interés regional la protección y puesta en valor de inmueble ubicado en la ciudad de Ferreñafe, declarad… | in force 19 August 2010 |
+| `ordenanza-regional-013-2010-gr-lamb-cr/` | Ordenanza Regional N° 013-2010-GR.LAMB./CR: Aprueban Texto Único de Procedimientos Administrativos de la Dirección Regional de Producción - Gobierno Regional de… | in force 6 July 2010 |
+| `ordenanza-regional-015-2010-gr-lamb-cr/` | Ordenanza Regional N° 015-2010-GR.LAMB./CR: Aprueban Texto Único de Procedimientos Administrativos de la Dirección Regional de Transportes y Comunicaciones - Añ… | in force 5 July 2010 |
+| `ordenanza-regional-012-2010-gr-lamb-cr/` | Ordenanza Regional N° 012-2010-GR.LAMB./CR: Aprueban la implementación de los Sistemas Comunitarios de Alerta Temprana en las cuencas ubicadas en el ámbito del … | in force 11 June 2010 |
+| `ordenanza-regional-011-2010-gr-lamb-cr/` | Ordenanza Regional N° 011-2010-GR.LAMB./CR: Reconocen al idioma castellano y quechua local como patrimonios lingüísticos e idiomas oficiales de la Región Lambay… | in force 5 June 2010 |
+| `ordenanza-regional-009-2010-gr-lamb-cr/` | Ordenanza Regional N° 009-2010-GR.LAMB./CR: Reconocen al Consejo Regional de Turismo de Lambayeque como máxima instancia de diálogo, coordinación y concertación… | in force 19 April 2010 |
+| `ordenanza-regional-007-2010-gr-lamb-cr/` | Ordenanza Regional N° 007-2010-GR.LAMB./CR: Amplían plazo de reestructuración administrativa y presupuestal del Gobierno Regional declarado mediante la Ordenanz… | in force 17 April 2010 |
+| `ordenanza-regional-04-2010-gr-lamb-cr/` | Ordenanza Regional N° 04-2010-GR.LAMB/CR: Aprueban Reglamento de Identificación y Acreditación de los Agentes Participantes para el Proceso de Elaboración del P… | in force 30 March 2010 |
+| `ordenanza-regional-003-2010-gr-lamb-cr/` | Ordenanza Regional N° 003-2010-GR.LAMB./CR: Modifican artículo del Reglamento de Organización y Funciones del Gobierno Regional | in force 22 March 2010 |
+| `ordenanza-regional-001-2010-gr-lamb-cr/` | Ordenanza Regional N° 001-2010-GR.LAMB./CR: Declaran en reestructuración administrativa y presupuestal al Gobierno Regional de Lambayeque | in force 23 January 2010 |
+| `ordenanza-regional-031-2009-gr-lamb-cr/` | Ordenanza Regional N° 031-2009-GR.LAMB./CR: Aprueban Plan Estratégico Regional Multisectorial 2010 - 2015 para la prevención y control de las Infecciones de Tra… | in force 15 January 2010 |
+| `ordenanza-regional-029-2009-gr-lamb-cr/` | Ordenanza Regional N° 029-2009-GR.LAMB./CR: Conforman  y aprueban adecuación de la Comisión Ambiental Regional - Lambayeque al D. Leg. N° 1013 - Ley de Creación… | in force 13 December 2009 |
+| `ordenanza-regional-030-2009-gr-lamb-cr/` | Ordenanza Regional N° 030-2009-GR.LAMB./CR: Modifican la Ordenanza N° 027-2006-GR.LAMB./CR que declaró de interés regional la Zonificación Ecológica Económica e… | in force 13 December 2009 |
+| `ordenanza-regional-027-2009-gr-lamb-cr/` | Ordenanza Regional N° 027-2009-GR.LAMB./CR: Disponen que toda persona que presta servicios o labora bajo cualquier régimen jurídico con el Gobierno Regional y s… | in force 23 October 2009 |
+| `ordenanza-regional-026-2009-gr-lamb-cr/` | Ordenanza Regional N° 026-2009-GR.LAMB./CR: Establecen que todas las dependencias del Gobierno Regional  registren información estadística desagregada, acorde a… | in force 23 October 2009 |
+| `ordenanza-regional-023-2009-gr-lamb-cr/` | Ordenanza Regional N° 023-2009-GR.LAMB./CR: Declaran Área de Interés Regional para la Conservación extensión de terreno ubicada en el distrito de Oyotún, provin… | in force 28 September 2009 |
+| `ordenanza-regional-025-2009-gr-lamb-cr/` | Ordenanza Regional N° 025-2009-GR.LAMB./CR: Declaran al Glorioso Colegio Nacional de "San José" como Institución Educativa Emblemática y Patrimonio de la Región… | in force 28 September 2009 |
+| `ordenanza-regional-022-2009-gr-lamb-cr/` | Ordenanza Regional N° 022-2009-GR.LAMB./CR: Declaran de interés prioritario para la Región Lambayeque la educación de las niñas y adolescentes rurales | in force 28 September 2009 |
+| `ordenanza-regional-017-2009-gr-lamb-cr/` | Ordenanza Regional N° 017-2009-GR.LAMB/CR: Modifican la Ordenanza N° 028-2003-GR.LAMB/CR, mediante la cual se creó el Consejo Regional de la Micro y Pequeña Emp… | in force 24 September 2009 |
+| `ordenanza-regional-021-2009-gr-lamb-cr/` | Ordenanza Regional N° 021-2009-GR.LAMB/CR: Promueven los programas regionales "Mi Lote" y "Mi Casa" | in force 23 August 2009 |
+| `ordenanza-regional-020-2009-gr-lamb-cr/` | Ordenanza Regional N° 020-2009-GR.LAMB./CR: Amplían plazo de suspensión de espectáculos y eventos públicos de todo tipo de asistencia masiva, incluyendo la susp… | in force 22 August 2009 |
+| `ordenanza-regional-019-2009-gr-lamb-cr/` | Ordenanza Regional N° 019-2009-GR.LAMB./CR: Declaran de prioridad acciones de promoción, prevención y control contra la Influenza y suspenden espectáculos y eve… | in force 6 August 2009 |
+| `ordenanza-regional-016-2009-gr-lamb-cr/` | Ordenanza Regional N° 016-2009-GR.LAMB./CR: Modifican Conformación de diversas Comisiones Ordinarias a que se refiere la Ordenanza Regional N° 001-2007-GR.LAMB/… | in force 29 June 2009 |
 
 ## Source
 
