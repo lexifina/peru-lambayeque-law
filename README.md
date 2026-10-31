@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-129 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+164 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -141,6 +141,41 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-014-2013-gr-lamb-cr/` | Ordenanza Regional N° 014-2013-GR.LAMB/CR: Incorporan artículos al Reglamento de Organización y Funciones del Gobierno Regional de Lambayeque | in force 2 December 2013 |
 | `ordenanza-regional-013-2012-gr-lamb-cr/` | Ordenanza Regional N° 013-2012-GR.LAMB./CR: Modifican el Cuadro para Asignación de Personal - CAP del Hospital Regional Lambayeque | in force 19 August 2012 |
 | `ordenanza-regional-002-2015-gr-lamb-cr/` | Ordenanza Regional N° 002-2015-GR.LAMB/CR: Modifican el Reglamento de Organización y Funciones - ROF del Gobierno Regional de Lambayeque | in force 27 March 2015 |
+| `ordenanza-regional-006-2018-gr-lamb-cr/` | Ordenanza Regional N° 006-2018-GR.LAMB/CR: Aprueban el Plan de Desarrollo Regional Concertado Lambayeque 2030 | in force 10 March 2019 |
+| `ordenanza-regional-021-2017-gr-lamb-cr/` | Ordenanza Regional N° 021-2017-GR.LAMB/CR: Modifican la Ordenanza Regional N° 002-+2006-GR.LAMB/CR, sobre exigibilidad de requisitos para el ejercicio profesion… | in force 9 March 2019 |
+| `ordenanza-regional-025-2017-gr-lamb-cr/` | Ordenanza Regional N° 025-2017-GR.LAMB/CR: Modifican la Ordenanza N° 003-2012-GR.LAMB/CR mediante la cual se aprobó la organización funcional del Hospital Regio… | in force 9 March 2019 |
+| `ordenanza-regional-024-2017-gr-lamb-cr/` | Ordenanza Regional N° 024-2017-GR.LAMB/CR: Modifican el Reglamento de la Comisión Ambiental Regional y aprueban otras disposiciones | in force 9 March 2019 |
+| `ordenanza-regional-023-2017-gr-lamb-cr/` | Ordenanza Regional N° 023-2017-GR.LAMB/CR: Modifican la Ordenanza Regional N° 001-2014-GR.LAMB/CR, que reconformó la Comisión Regional Anticorrupción de Lambaye… | in force 9 March 2019 |
+| `ordenanza-regional-017-2015-g-r-lamb-cr/` | Ordenanza Regional N° 017-2015-G.R.LAMB/CR: Modifican el Cuadro para Asignación de Personal (CAP) Provisional del Gobierno Regional Lambayeque | in force 8 June 2015 |
+| `ordenanza-regional-019-2015-g-r-lamb-cr/` | Ordenanza Regional N° 019-2015-G.R.LAMB/CR: Aprueban el Plan Estratégico de Desarrollo Vial de Lambayeque 2014 - 2021 | in force 8 June 2015 |
+| `ordenanza-regional-008-2015-gr-lamb-cr/` | Ordenanza Regional N° 008-2015-GR.LAMB/CR: Aprueban el Plan Estratégico Institucional 2015 - 2018 del Gobierno Regional de Lambayeque | in force 22 May 2015 |
+| `ordenanza-regional-011-2015-gr-lamb-cr/` | Ordenanza Regional N° 011-2015-GR.LAMB/CR: Aprueban el Reglamento de Organización y Funciones - ROF de la Autoridad Portuaria Regional Lambayeque | in force 22 May 2015 |
+| `ordenanza-regional-014-2015-gr-lamb-cr/` | Ordenanza Regional N° 014-2015-GR.LAMB/CR: Modifican el Reglamento de Organización y Funciones del Gobierno Regional de Lambayeque | in force 22 May 2015 |
+| `ordenanza-regional-007-2015-gr-lamb-cr/` | Ordenanza Regional N° 007-2015-GR.LAMB/CR: Aprueban el Reglamento del Proceso de Formulación del Presupuesto Participativo del Gobierno Regional Lambayeque - Añ… | in force 30 April 2015 |
+| `ordenanza-regional-006-2015-gr-lamb-cr/` | Ordenanza Regional N° 006-2015-GR.LAMB/CR: Modifican el Cuadro para Asignación de Personal - CAP del Gobierno Regional de Lambayeque y dictan otras disposicione… | in force 30 April 2015 |
+| `ordenanza-regional-005-2015-gr-lamb-cr/` | Ordenanza Regional N° 005-2015-GR.LAMB/CR: Modifican el Reglamento de Organización y Funciones - ROF del Gobierno Regional de Lambayeque y dictan otras disposic… | in force 30 April 2015 |
+| `ordenanza-regional-001-2015-gr-lamb-cr/` | Ordenanza Regional N° 001-2015-GR.LAMB/CR: Modifican el Reglamento de Organización y Funciones - ROF del Gobierno Regional de Lambayeque | in force 27 March 2015 |
+| `ordenanza-regional-017-2013-gr-lamb-cr/` | Ordenanza Regional N° 017-2013-GR.LAMB/CR: Declaran de interés y prioridad regional el Proyecto "Lambayeque con Oportunidades" | in force 29 December 2013 |
+| `ordenanza-regional-015-2013-gr-lamb-cr/` | Ordenanza Regional N° 015-2013-GR.LAMB/CR: Declaran de interés regional y de prioritaria atención la Cadena Productiva Artesanal del Algodón Nativo en la Región… | in force 29 December 2013 |
+| `ordenanza-regional-016-2013-gr-lamb-cr/` | Ordenanza Regional N° 016-2013-GR.LAMB/CR: Crean la Red Regional de Lucha contra la Trata de Personas y el Tráfico Ilícito de Migrantes en la Región Lambayeque | in force 29 December 2013 |
+| `ordenanza-regional-013-2013-gr-lamb-cr/` | Ordenanza Regional N° 013-2013-GR.LAMB/CR: Declaran de interés regional el fomento del Taxi Turístico Regional | in force 2 December 2013 |
+| `ordenanza-regional-012-2013-gr-lamb-cr/` | Ordenanza Regional N° 012-2013-GR.LAMB/CR: Aprueban la modificación del Cuadro de Asignación de Personal - CAP de la Unidad Ejecutora 400 - Salud Lambayeque | in force 2 December 2013 |
+| `ordenanza-regional-011-2013-gr-lamb-cr/` | Ordenanza Regional N° 011-2013-GR.LAMB/CR: Declaran al Centro Histórico del Distrito de Zaña, como "Sitio de Memoria de la Esclavitud de la Región Lambayeque" | in force 2 November 2013 |
+| `ordenanza-regional-010-2013-gr-lamb-cr/` | Ordenanza Regional N° 010-2013-GR.LAMB/CR: Aprueban la implementación del Sistema de Alerta Temprana de las cuencas hidrográficas y zonas marino - costeras, ubi… | in force 2 November 2013 |
+| `ordenanza-regional-009-2013-gr-lamb-cr/` | Ordenanza Regional N° 009-2013-GR.LAMB/CR: Derogan la Ordenanza Regional que procedió a la creación de las Oficinas de Coordinación Educativa para atender los a… | in force 12 October 2013 |
+| `ordenanza-regional-008-2013-gr-lamb-cr/` | Ordenanza Regional N° 008-2013-GR.LAMB/CR: Aprueban el Texto Único de Procedimientos Administrativos - TUPA del Gobierno Regional Lambayeque | in force 6 September 2013 |
+| `ordenanza-regional-007-2013-gr-lamb-cr/` | Ordenanza Regional N° 007-2013-GR.LAMB/CR: Aprueban "Estrategia de Gestión Integral de Servicios de Saneamiento Básico Rural" | in force 18 July 2013 |
+| `ordenanza-regional-006-2013-gr-lamb-cr/` | Ordenanza Regional N° 006-2013-GR.LAMB/CR: Constituyen el Consejo Regional de Productos Orgánicos de Lambayeque - COREPO Lambayeque | in force 14 July 2013 |
+| `ordenanza-regional-005-2013-gr-lamb-cr/` | Ordenanza Regional N° 005-2013-GR.LAMB/CR: Declaran de interés regional la Promoción de Parques Industriales en la Región Lambayeque | in force 30 May 2013 |
+| `ordenanza-regional-003-gr-lamb-cr/` | Ordenanza Regional N° 003-GR.LAMB./CR: Aprueban Reglamento del Proceso de Formulación del Presupuesto Participativo del Gobierno Regional Lambayeque - Año Fisca… | in force 5 April 2013 |
+| `ordenanza-regional-001-2013-gr-lamb-cr/` | Ordenanza Regional N° 001-2013-GR.LAMB/CR: Declaran el 15 de noviembre de cada año como "Día Regional de la Sanidad Agraria" | in force 24 January 2013 |
+| `ordenanza-regional-022-2012-gr-lamb-cr/` | Ordenanza Regional N° 022-2012-GR.LAMB/CR: Aprueban propuesta de Política Ambiental Regional del Gobierno Regional de Lambayeque | in force 14 January 2013 |
+| `ordenanza-regional-019-2012-gr-lamb-cr/` | Ordenanza Regional N° 019-2012-GR.LAMB/CR: Disponen que el Consejo de Recursos Hídricos de la Cuenca Chancay - Lambayeque incluya en el Plan de Gestión de los R… | in force 26 November 2012 |
+| `ordenanza-regional-020-2012-gr-lamb-cr/` | Ordenanza Regional N° 020-2012-GR.LAMB/CR: Disponen elevar solicitud de categorización de cuerpos de agua que no se encuentran registrados en la R.J. N° 202-201… | in force 24 November 2012 |
+| `ordenanza-regional-017-2012-gr-lamb-cr/` | Ordenanza Regional N° 017-2012-GR.LAMB/CR: Modifican el Cuadro para Asignación de Personal - CAP del Gobierno Regional Lambayeque | in force 12 November 2012 |
+| `ordenanza-regional-016-2012-gr-lamb-cr/` | Ordenanza Regional N° 016-2012-GR.LAMB/CR: Modifican Cuadro para Asignación de Personal del Hospital Regional Lambayeque | in force 28 October 2012 |
+| `ordenanza-regional-015-2012-gr-lamb-cr/` | Ordenanza Regional N° 015-2012-GR.LAMB/CR: Modifican la Ordenanza N° 005-2004-GR.LAMB/CR y disponen la reconformación de la Agencia Regional de Fomento de la In… | in force 8 September 2012 |
+| `ordenanza-regional-014-2012-gr-lamb-cr/` | Ordenanza Regional N° 014-2012-GR.LAMB./CR: Declaran festividad oficial de la Región Lambayeque al "Festival de la Amistad y la Gastronomía" e instituyen el 7 d… | in force 19 August 2012 |
 
 ## Source
 

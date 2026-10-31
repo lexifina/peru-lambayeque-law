@@ -147,20 +147,55 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-014-2013-gr-lamb-cr` | Ordenanza Regional N° 014-2013-GR.LAMB/CR: Incorporan artículos al Reglamento de Organización y Funciones del Gobierno Regional de Lambayeque | 1 | 2013-12-02 to 2013-12-02 |
 | `ordenanza-regional-013-2012-gr-lamb-cr` | Ordenanza Regional N° 013-2012-GR.LAMB./CR: Modifican el Cuadro para Asignación de Personal - CAP del Hospital Regional Lambayeque | 1 | 2012-08-19 to 2012-08-19 |
 | `ordenanza-regional-002-2015-gr-lamb-cr` | Ordenanza Regional N° 002-2015-GR.LAMB/CR: Modifican el Reglamento de Organización y Funciones - ROF del Gobierno Regional de Lambayeque | 1 | 2015-03-27 to 2015-03-27 |
+| `ordenanza-regional-006-2018-gr-lamb-cr` | Ordenanza Regional N° 006-2018-GR.LAMB/CR: Aprueban el Plan de Desarrollo Regional Concertado Lambayeque 2030 | 1 | 2019-03-10 to 2019-03-10 |
+| `ordenanza-regional-021-2017-gr-lamb-cr` | Ordenanza Regional N° 021-2017-GR.LAMB/CR: Modifican la Ordenanza Regional N° 002-+2006-GR.LAMB/CR, sobre exigibilidad de requisitos para el ejercicio profesional en la administración pública regional | 1 | 2019-03-09 to 2019-03-09 |
+| `ordenanza-regional-025-2017-gr-lamb-cr` | Ordenanza Regional N° 025-2017-GR.LAMB/CR: Modifican la Ordenanza N° 003-2012-GR.LAMB/CR mediante la cual se aprobó la organización funcional del Hospital Regional de Lambayeque | 1 | 2019-03-09 to 2019-03-09 |
+| `ordenanza-regional-024-2017-gr-lamb-cr` | Ordenanza Regional N° 024-2017-GR.LAMB/CR: Modifican el Reglamento de la Comisión Ambiental Regional y aprueban otras disposiciones | 1 | 2019-03-09 to 2019-03-09 |
+| `ordenanza-regional-023-2017-gr-lamb-cr` | Ordenanza Regional N° 023-2017-GR.LAMB/CR: Modifican la Ordenanza Regional N° 001-2014-GR.LAMB/CR, que reconformó la Comisión Regional Anticorrupción de Lambayeque | 1 | 2019-03-09 to 2019-03-09 |
+| `ordenanza-regional-017-2015-g-r-lamb-cr` | Ordenanza Regional N° 017-2015-G.R.LAMB/CR: Modifican el Cuadro para Asignación de Personal (CAP) Provisional del Gobierno Regional Lambayeque | 1 | 2015-06-08 to 2015-06-08 |
+| `ordenanza-regional-019-2015-g-r-lamb-cr` | Ordenanza Regional N° 019-2015-G.R.LAMB/CR: Aprueban el Plan Estratégico de Desarrollo Vial de Lambayeque 2014 - 2021 | 1 | 2015-06-08 to 2015-06-08 |
+| `ordenanza-regional-008-2015-gr-lamb-cr` | Ordenanza Regional N° 008-2015-GR.LAMB/CR: Aprueban el Plan Estratégico Institucional 2015 - 2018 del Gobierno Regional de Lambayeque | 1 | 2015-05-22 to 2015-05-22 |
+| `ordenanza-regional-011-2015-gr-lamb-cr` | Ordenanza Regional N° 011-2015-GR.LAMB/CR: Aprueban el Reglamento de Organización y Funciones - ROF de la Autoridad Portuaria Regional Lambayeque | 1 | 2015-05-22 to 2015-05-22 |
+| `ordenanza-regional-014-2015-gr-lamb-cr` | Ordenanza Regional N° 014-2015-GR.LAMB/CR: Modifican el Reglamento de Organización y Funciones del Gobierno Regional de Lambayeque | 1 | 2015-05-22 to 2015-05-22 |
+| `ordenanza-regional-007-2015-gr-lamb-cr` | Ordenanza Regional N° 007-2015-GR.LAMB/CR: Aprueban el Reglamento del Proceso de Formulación del Presupuesto Participativo del Gobierno Regional Lambayeque - Año Fiscal 2016 y cronograma | 1 | 2015-04-30 to 2015-04-30 |
+| `ordenanza-regional-006-2015-gr-lamb-cr` | Ordenanza Regional N° 006-2015-GR.LAMB/CR: Modifican el Cuadro para Asignación de Personal - CAP del Gobierno Regional de Lambayeque y dictan otras disposiciones | 1 | 2015-04-30 to 2015-04-30 |
+| `ordenanza-regional-005-2015-gr-lamb-cr` | Ordenanza Regional N° 005-2015-GR.LAMB/CR: Modifican el Reglamento de Organización y Funciones - ROF del Gobierno Regional de Lambayeque y dictan otras disposiciones | 1 | 2015-04-30 to 2015-04-30 |
+| `ordenanza-regional-001-2015-gr-lamb-cr` | Ordenanza Regional N° 001-2015-GR.LAMB/CR: Modifican el Reglamento de Organización y Funciones - ROF del Gobierno Regional de Lambayeque | 1 | 2015-03-27 to 2015-03-27 |
+| `ordenanza-regional-017-2013-gr-lamb-cr` | Ordenanza Regional N° 017-2013-GR.LAMB/CR: Declaran de interés y prioridad regional el Proyecto "Lambayeque con Oportunidades" | 1 | 2013-12-29 to 2013-12-29 |
+| `ordenanza-regional-015-2013-gr-lamb-cr` | Ordenanza Regional N° 015-2013-GR.LAMB/CR: Declaran de interés regional y de prioritaria atención la Cadena Productiva Artesanal del Algodón Nativo en la Región Lambayeque | 1 | 2013-12-29 to 2013-12-29 |
+| `ordenanza-regional-016-2013-gr-lamb-cr` | Ordenanza Regional N° 016-2013-GR.LAMB/CR: Crean la Red Regional de Lucha contra la Trata de Personas y el Tráfico Ilícito de Migrantes en la Región Lambayeque | 1 | 2013-12-29 to 2013-12-29 |
+| `ordenanza-regional-013-2013-gr-lamb-cr` | Ordenanza Regional N° 013-2013-GR.LAMB/CR: Declaran de interés regional el fomento del Taxi Turístico Regional | 1 | 2013-12-02 to 2013-12-02 |
+| `ordenanza-regional-012-2013-gr-lamb-cr` | Ordenanza Regional N° 012-2013-GR.LAMB/CR: Aprueban la modificación del Cuadro de Asignación de Personal - CAP de la Unidad Ejecutora 400 - Salud Lambayeque | 1 | 2013-12-02 to 2013-12-02 |
+| `ordenanza-regional-011-2013-gr-lamb-cr` | Ordenanza Regional N° 011-2013-GR.LAMB/CR: Declaran al Centro Histórico del Distrito de Zaña, como "Sitio de Memoria de la Esclavitud de la Región Lambayeque" | 1 | 2013-11-02 to 2013-11-02 |
+| `ordenanza-regional-010-2013-gr-lamb-cr` | Ordenanza Regional N° 010-2013-GR.LAMB/CR: Aprueban la implementación del Sistema de Alerta Temprana de las cuencas hidrográficas y zonas marino - costeras, ubicadas en el ámbito de la Región Lambayeque | 1 | 2013-11-02 to 2013-11-02 |
+| `ordenanza-regional-009-2013-gr-lamb-cr` | Ordenanza Regional N° 009-2013-GR.LAMB/CR: Derogan la Ordenanza Regional que procedió a la creación de las Oficinas de Coordinación Educativa para atender los aspectos técnico-pedagógicos y administrativos en las zonas andinas de los distritos de Inkawasi y Kañaris, dependientes de la UGEL Ferreñafe | 1 | 2013-10-12 to 2013-10-12 |
+| `ordenanza-regional-008-2013-gr-lamb-cr` | Ordenanza Regional N° 008-2013-GR.LAMB/CR: Aprueban el Texto Único de Procedimientos Administrativos - TUPA del Gobierno Regional Lambayeque | 1 | 2013-09-06 to 2013-09-06 |
+| `ordenanza-regional-007-2013-gr-lamb-cr` | Ordenanza Regional N° 007-2013-GR.LAMB/CR: Aprueban "Estrategia de Gestión Integral de Servicios de Saneamiento Básico Rural" | 1 | 2013-07-18 to 2013-07-18 |
+| `ordenanza-regional-006-2013-gr-lamb-cr` | Ordenanza Regional N° 006-2013-GR.LAMB/CR: Constituyen el Consejo Regional de Productos Orgánicos de Lambayeque - COREPO Lambayeque | 1 | 2013-07-14 to 2013-07-14 |
+| `ordenanza-regional-005-2013-gr-lamb-cr` | Ordenanza Regional N° 005-2013-GR.LAMB/CR: Declaran de interés regional la Promoción de Parques Industriales en la Región Lambayeque | 1 | 2013-05-30 to 2013-05-30 |
+| `ordenanza-regional-003-gr-lamb-cr` | Ordenanza Regional N° 003-GR.LAMB./CR: Aprueban Reglamento del Proceso de Formulación del Presupuesto Participativo del Gobierno Regional Lambayeque - Año Fiscal 2014 | 1 | 2013-04-05 to 2013-04-05 |
+| `ordenanza-regional-001-2013-gr-lamb-cr` | Ordenanza Regional N° 001-2013-GR.LAMB/CR: Declaran el 15 de noviembre de cada año como "Día Regional de la Sanidad Agraria" | 1 | 2013-01-24 to 2013-01-24 |
+| `ordenanza-regional-022-2012-gr-lamb-cr` | Ordenanza Regional N° 022-2012-GR.LAMB/CR: Aprueban propuesta de Política Ambiental Regional del Gobierno Regional de Lambayeque | 1 | 2013-01-14 to 2013-01-14 |
+| `ordenanza-regional-019-2012-gr-lamb-cr` | Ordenanza Regional N° 019-2012-GR.LAMB/CR: Disponen que el Consejo de Recursos Hídricos de la Cuenca Chancay - Lambayeque incluya en el Plan de Gestión de los Recursos Hídricos de Cuenca, la programación de actividades de vigilancia, supervisión, monitoreo y fiscalización | 1 | 2012-11-26 to 2012-11-26 |
+| `ordenanza-regional-020-2012-gr-lamb-cr` | Ordenanza Regional N° 020-2012-GR.LAMB/CR: Disponen elevar solicitud de categorización de cuerpos de agua que no se encuentran registrados en la R.J. N° 202-2010-ANA a la Autoridad Nacional del Agua | 1 | 2012-11-24 to 2012-11-24 |
+| `ordenanza-regional-017-2012-gr-lamb-cr` | Ordenanza Regional N° 017-2012-GR.LAMB/CR: Modifican el Cuadro para Asignación de Personal - CAP del Gobierno Regional Lambayeque | 1 | 2012-11-12 to 2012-11-12 |
+| `ordenanza-regional-016-2012-gr-lamb-cr` | Ordenanza Regional N° 016-2012-GR.LAMB/CR: Modifican Cuadro para Asignación de Personal del Hospital Regional Lambayeque | 1 | 2012-10-28 to 2012-10-28 |
+| `ordenanza-regional-015-2012-gr-lamb-cr` | Ordenanza Regional N° 015-2012-GR.LAMB/CR: Modifican la Ordenanza N° 005-2004-GR.LAMB/CR y disponen la reconformación de la Agencia Regional de Fomento de la Inversión Privada de Lambayeque - AFIP Lambayeque | 1 | 2012-09-08 to 2012-09-08 |
+| `ordenanza-regional-014-2012-gr-lamb-cr` | Ordenanza Regional N° 014-2012-GR.LAMB./CR: Declaran festividad oficial de la Región Lambayeque al "Festival de la Amistad y la Gastronomía" e instituyen el 7 de octubre como Feriado Regional laborable | 1 | 2012-08-19 to 2012-08-19 |
 
-The build made 129 commits:
+The build made 164 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 129 | first version of an act |
+| 164 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 1 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 129 laws in the record.
-- 259 tags.
+- 164 laws in the record.
+- 329 tags.
 
 ## Dates
 
@@ -172,13 +207,13 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `3f4e3c196fd8200337e4ffb40f288afacd0d5edfca474f5100531d0f84deb960` (1627312 bytes).
+- Corpus: sha256 `640778b98856dc70d6473fcbdf2babecc08a49a0eadfc5f343cc7129e418ca87` (2021210 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-129 versions of 129 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
