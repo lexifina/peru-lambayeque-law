@@ -1,0 +1,11 @@
+{
+  "path": "pe-lam",
+  "code": "PE-LAM",
+  "name": "Lambayeque",
+  "level": "region",
+  "parent": "pe",
+  "repo": "https://github.com/lexifina/peru-lambayeque-law",
+  "build": "built: 129 ordinances as published in El Peruano",
+  "language": "es",
+  "sources": 1
+}
